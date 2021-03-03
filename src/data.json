@@ -1,0 +1,21 @@
+[
+    {
+        "rahul":{
+            "apple":5,
+            "bananas":6,
+            "mango":10
+        },
+        
+        "jack":{
+            "apple":6,
+            "banana":9,
+            "mango":15
+        },
+
+        "mayank":{
+            "apple":7,
+            "banana":88,
+            "mango":25
+        }
+    }
+]
